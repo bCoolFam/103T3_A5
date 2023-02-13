@@ -6,6 +6,9 @@
  * Name: yoon hong
  * Username: hongyoon
  * ID: 300441485
+ * 
+ * code can also be found at
+ * https://github.com/bCoolFam/103T3_A5/
  */
 
 import ecs100.*;
@@ -253,7 +256,7 @@ public class CPNCalculator {
                     }
 
                 case "ln":
-                    
+
 
 
                 case "sin":
