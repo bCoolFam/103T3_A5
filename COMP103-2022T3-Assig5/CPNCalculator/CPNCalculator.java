@@ -256,7 +256,7 @@ public class CPNCalculator {
                     }
 
                 case "ln":
-
+                    
 
 
                 case "sin":
